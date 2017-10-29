@@ -1,4 +1,4 @@
-package com.yespon.mqmon;
+package com.yespon.mqmon.entity;
 
 /**
  * @author liuyp

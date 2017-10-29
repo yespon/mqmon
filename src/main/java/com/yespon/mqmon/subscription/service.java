@@ -1,9 +1,9 @@
-package com.yespon.mqmon;
+package com.yespon.mqmon.subscription;
 
 /**
  * @author liuyp
  * @package ${PACKAGE}
  * @date 2017/10/29
  */
-public class QueueManager {
+public class service {
 }
